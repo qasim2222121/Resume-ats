@@ -21,7 +21,7 @@ from pypdf import PdfReader
 # ----------------------------------------------------------------------------
 # Config
 # ----------------------------------------------------------------------------
-DEFAULT_MODEL = "gemini-1.5-flash"  # change in the sidebar if Google renames/updates it
+DEFAULT_MODEL = "gemini-2.5-flash"  # change in the sidebar if Google renames/updates it
 MAX_FILE_MB = 5
 MAX_RESUME_CHARS = 20000
 MAX_JD_CHARS = 8000
